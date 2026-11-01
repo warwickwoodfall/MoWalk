@@ -1,0 +1,6 @@
+build/
+build.log
+.mowalk-local
+*.xcuserstate
+xcuserdata/
+.DS_Store
